@@ -1,29 +1,32 @@
 {
 	"data": [{
-			"id": 1,
-			"userName": "Sravani",
-			"password": "2908"
+			"name": "Sravani",
+			"password": "2908",
+		"phone": 1234
 		},
 		{
-			"id": 2,
-			"userName": "Usha",
-			"password": "1412"
-		},
+			
+			"name": "Usha",
+			"password": "1412",
+			"phone":5678		},
 		{
-			"id": 3,
-			"userName": "Bharathi",
-			"password": "0909"
+			
+			"name": "Bharathi",
+			"password": "0909",
+			"phone":9123
 		},
 
 		{
-			"id": 4,
-			"userName": "Akshara",
-			"password": "2609"
+			
+			"name": "Akshara",
+			"password": "2609",
+			"phone":4567
 		},
 		{
-			"id": 5,
-			"userName": "Manasa",
-			"password": "1308"
+			
+			"name": "Manasa",
+			"password": "1308",
+			"phone":8912
 		}
 
 	]
